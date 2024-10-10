@@ -5,7 +5,7 @@ Pre formation lights rivets/panels
 Frequently Asked Questions
 When can I get this for all other airframes?
 
-    Check my repository for "Dirt & Rivets"
+    Check my newer repository "Dirt & Rivets" for the updated version of this and all the other airframes in VTOL VR
 
 Why are there six different versions to download?
 
