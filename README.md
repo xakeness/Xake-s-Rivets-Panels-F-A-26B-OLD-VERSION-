@@ -5,7 +5,7 @@ Pre formation lights rivets/panels
 Frequently Asked Questions
 When can I get this for all other airframes?
 
-    I am wanting to do one for the AV-42C and F-45A, and after i'm done with that I'll see if i can improve upon the AH-94/t-55's already present rivets/panels
+    Check my repository for "Dirt & Rivets"
 
 Why are there six different versions to download?
 
@@ -13,4 +13,4 @@ Why are there six different versions to download?
 
 Are you going to make more than six?
 
-    I'm actually working on a couple different variations of the vert stabs based on the F-15 and the Su-27 so yes i'll do at least six of each for the different 26B variations
+    I've actually made eight variations of dirt for each of the six airframes in VTOL VR, check my repository or ko-fi page for more info: https://ko-fi.com/xakeness
